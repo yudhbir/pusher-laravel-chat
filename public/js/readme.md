@@ -1,0 +1,1 @@
+#appjs is renamed into the app1.js because it will be your project app.js . it is here for referneces.
